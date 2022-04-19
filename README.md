@@ -1,8 +1,12 @@
 # HackingEDPlanningV2-Challenge1
 
-Flooding  can severely disrupt access to education in many countries, affecting especially developing countries in the global south. Most Ministries of Education don’t have the technical know-how to obtain detailed climate-related statistics with an emphasis on education infrastructure.
-The  objective of this challenge is to develop a code that uses remote sensing and historical data to determine the frequency and extent of flooding around schools for a particular region or country. It should extract which schools were flooded by date, the proportion of the area that was flooded around the school, and the duration of this flood. Participants are encouraged to use GEE or its Python API to create these series.
-This information will be instrumental in helping Ministries of Education in knowing which schools to refurbish, and where to set in place additional policies that can guarantee that kids can still make it to school, even during the rainy season. 
+🧐 Flooding  can severely disrupt access to education in many countries, affecting especially developing countries in the global south. Most Ministries of Education don’t have the technical know-how to obtain detailed climate-related statistics with an emphasis on education infrastructure.
+
+🎯 The  objective of this challenge is to develop a code that uses remote sensing and historical data to determine the frequency and extent of flooding around schools for a particular region or country. It should extract which schools were flooded by date, the proportion of the area that was flooded around the school, and the duration of this flood.
+
+This information will be instrumental in helping Ministries of Education in knowing which schools to refurbish, and where to set in place additional policies that can guarantee that kids can still make it to school, even during the rainy season.
+
+⛑ Participants are encouraged to use GEE or its Python API to create these series.
 
 # Data
 
