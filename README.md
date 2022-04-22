@@ -1,5 +1,8 @@
 # HackingEDPlanningV2-Challenge1
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7fkAELDEIaY" target="_blank"><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F237802049%2F336870561013%2F1%2Foriginal.20220228-102209?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C54%2C1200%2C600&s=92cc71cae0ff03ed75357a1f0aef9819" 
+alt="Introductory video" width="720" height="360" border="10" /></a>
+
 🧐 Flooding  can severely disrupt access to education in many countries, affecting especially developing countries in the global south. Most Ministries of Education don’t have the technical know-how to obtain detailed climate-related statistics with an emphasis on education infrastructure.
 
 🎯 The  objective of this challenge is to develop a code that uses remote sensing and historical data to determine the frequency and extent of flooding around schools for a particular region or country. It should extract which schools were flooded by date, the proportion of the area that was flooded around the school, and the duration of this flood.
