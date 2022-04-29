@@ -35,3 +35,9 @@ alt="Flood Mapping" width="480" height="360" border="10" /></a>
 - [Earth Engine Catalog](https://developers.google.com/earth-engine/datasets)
 - [End-to-End GEE course](https://courses.spatialthoughts.com/end-to-end-gee.html)
 - [The GEE Python API](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
+
+# How to use this GitHub repository ? 
+
+If you have never used github repository you can download the content of this repository by clicking on the button **Code** and then **download zip**. If you want you can start to use github by forking this project as a base for your project and share your work on Github. 
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
