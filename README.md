@@ -7,7 +7,7 @@ alt="Introductory video" width="720" height="360" border="10" /></a>
 
 🇪🇸 [Versión en Español](#versi%C3%B3n-en-espa%C3%B1ol)
 
-Note: By accessing this repository and the corresponding files, you agree to a non-disclosure agreement. To get a copy, please write to development@iiep.unesco.org
+Note: By accessing this repository and the corresponding files, you agree to a [non-disclosure agreement](https://box.iiep.unesco.org/s/FCXnZCStwRcyge4). 
 
 🧐 Flooding  can severely disrupt access to education in many countries, affecting especially developing countries in the global south. Most Ministries of Education don’t have the technical know-how to obtain detailed climate-related statistics with an emphasis on education infrastructure.
 
@@ -48,7 +48,7 @@ If you have never used github repository you can download the content of this re
 
 # Version Française
 
-Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un accord de non-divulgation des données confidentielles. Pour en obtenir une copie, veuillez écrire à development@iiep.unesco.org.
+Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un [accord de non-divulgation des données confidentielles](https://box.iiep.unesco.org/s/cLG4mAXLWeJyFWT). 
 
 🧐 Dans de nombreux pays, les inondations peuvent gravement perturber l'accès à l'éducation. De nombreux ministères de l'éducation sont confrontés à des difficultés lorsqu'il s'agit d'obtenir des données détaillées sur le climat et de les utiliser combinées aux informations et statistiques liées à l'éducation.
 
@@ -89,7 +89,7 @@ Si vous n'avez jamais utilisé le dépôt GitHub, vous pouvez télécharger le c
 
 # Versión en Español
 
-Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un acuerdo de no divulgación. Para obtener una copia, escriba a development@iiep.unesco.org
+Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un [acuerdo de no divulgación](https://box.iiep.unesco.org/s/5NdS4nR2dinDbRY).
 
 🧐 En muchos países, las inundaciones pueden interrumpir gravemente el acceso a la educación. Muchos ministerios de educación se enfrentan a desafíos para obtener datos climáticos precisos y cruzarlos con estadísticas educativas e información sobre la infraestructura educativa del país.
 
