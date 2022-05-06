@@ -48,6 +48,45 @@ If you have never used github repository you can download the content of this re
 
 # Version Française
 
+Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un accord de non-divulgation des données confidentielles. Pour en obtenir une copie, veuillez écrire à development@iiep.unesco.org.
+
+🧐 Dans de nombreux pays, les inondations peuvent gravement perturber l'accès à l'éducation. De nombreux ministères de l'éducation sont confrontés à des difficultés lorsqu'il s'agit d'obtenir des données détaillées sur le climat et de les utiliser combinées aux informations et statistiques liées à l'éducation.
+
+🎯 L'objectif de ce défi est de développer un code qui utilise la télédétection et les données historiques pour déterminer la fréquence et l'étendue des inondations autour des écoles pour une région ou un pays particulier. Le code doit extraire les écoles qui ont été inondées par date, la proportion de la zone autour de l'école qui a été inondée, et la durée de l'inondation.
+
+Ces informations seraient utiles pour aider les ministères de l'éducation à décider quelles écoles ré-nover en priorité, et où mettre en place des politiques supplémentaires pour garantir que les enfants puissent se rendre à l'école, même pendant la saison des pluies.
+
+⛑ Les participants sont encouragés à utiliser Google Earth Engine ou son API Python pour créer ces séries.
+
+# Données
+
+Alors que toutes les données sur les inondations doivent être extraites de GEE, la couche des emplacements des écoles doit être chargée manuellement dans l'instance GEE. La couche de points contenant les caractéristiques des écoles est une information librement disponible au Myanmar, pour les zones géographiques [supérieures](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-upper-myanmar) et [inférieures](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-lower-myanmar) du pays.
+
+# Tutoriels utiles
+
+Il existe un certain nombre de ressources gratuites en ligne sur la détection des inondations avec GEE. Une ressource particulièrement bonne, qui peut guider la construction d'un code personnalisé pour la détection des inondations, peut être trouvée ici :
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jYsK9Y4ICrY" target="_blank"><img src="http://img.youtube.com/vi/jYsK9Y4ICrY/0.jpg" 
+alt="Flood Mapping" width="480" height="360" border="10" /></a>
+
+Un autre tutoriel utile porte sur la manière d'extraire des séries chronologiques à partir de GEE :
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LqSClCXrMl4" target="_blank"><img src="http://img.youtube.com/vi/LqSClCXrMl4/0.jpg" 
+alt="Flood Mapping" width="480" height="360" border="10" /></a>
+
+# Ressources supplémentaires
+
+- [Accéder au moteur Google Earth](https://code.earthengine.google.com)
+- [Catalogue de Earth Engine](https://developers.google.com/earth-engine/datasets)
+- [Cours GEE de bout en bout](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- [L'API Python de GEE](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
+
+# Comment utiliser ce dépôt GitHub ?
+
+Si vous n'avez jamais utilisé le dépôt GitHub, vous pouvez télécharger le contenu de ce dépôt en cliquant sur le bouton **Code** et ensuite **télécharger zip**. Si vous voulez, vous pouvez commencer à utiliser GitHub en forkant ce projet comme base pour votre projet et partager votre travail sur GitHub.
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
+
 # Versión en Español
 
 Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un acuerdo de no divulgación. Para obtener una copia, escriba a development@iiep.unesco.org
@@ -85,6 +124,6 @@ alt="Flood Mapping" width="480" height="360" border="10" /></a>
 
 # ¿Cómo utilizar este repositorio de GitHub?
 
-Si nunca ha utilizado el repositorio de GitHub, puede descargar el contenido de este repositorio haciendo clic en el botón Código y luego descargar el zip. Si así lo desea, puede empezar a usar GitHub bifurcando este proyecto como base para su proyecto y compartir su trabajo en GitHub.
+Si nunca ha utilizado el repositorio de GitHub, puede descargar el contenido de este repositorio haciendo clic en el botón **Código** y luego **descargar el zip**. Si así lo desea, puede empezar a usar GitHub bifurcando este proyecto como base para su proyecto y compartir su trabajo en GitHub.
  
 ![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
