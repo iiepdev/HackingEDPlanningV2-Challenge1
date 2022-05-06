@@ -21,6 +21,16 @@ This information will be instrumental in helping Ministries of Education in know
 
 While all flooding data needs to be extracted from GEE, the layer of school locations needs to be manually loaded into the GEE instance. The point layer with the school characteristics is freely available information from Myanmar, for the [upper](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-upper-myanmar) and [lower](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-lower-myanmar) areas in the country.
 
+## Flooded areas
+
+Different image collections exist within GEE to obtain flooding patterns. Below is a non-exhaustive list.
+
+|Name of the data source|Frequency|Time span|Resolution|Code|
+|:----|:----|:----|:----|:----|
+|Sentinel-1 SAR GRD|Daily|2014-Present|10 meters|[Sentinel-1 SAR GRD](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)|
+|Global Flood Database v1|Daily|2000-2018|30 meters|[Global Flood Database](https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1)|
+|JRC Monthly Water History, v1.3|Monthly|1984-2020|30 meters|[JRC Monthly Water History](https://developers.google.cn/earth-engine/datasets/catalog/JRC_GSW1_3_MonthlyHistory)|
+
 # Useful tutorials
 
 A number of free, online resources exist on flood detection with GEE. A particularly good one, which can guide the construction of a custom code for flood detection, can be found here:
@@ -62,6 +72,16 @@ Ces informations seraient utiles pour aider les ministères de l'éducation à d
 
 Alors que toutes les données sur les inondations doivent être extraites de GEE, la couche des emplacements des écoles doit être chargée manuellement dans l'instance GEE. La couche de points contenant les caractéristiques des écoles est une information librement disponible au Myanmar, pour les zones géographiques [supérieures](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-upper-myanmar) et [inférieures](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-lower-myanmar) du pays.
 
+## Zones inondées
+
+Différentes collections d'images existent au sein de GEE pour obtenir des modèles d'inondation. En voici une liste non exhaustive.
+
+|Nom de la source de données|Fréquence|Période de temps|Résolution|Code|
+|:----|:----|:----|:----|:----|
+|Sentinel-1 SAR GRD|Quotidiennement|2014-présent|10 mètres|[Sentinel-1 SAR GRD](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)|
+|GBase de données mondiale sur les inondations  v1|Quotidiennement|2000-2018|30 mètres|[Global Flood Database](https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1)|
+|Historique mensuel de l'eau du CCR, v1.3|Mensuel|1984-2020|30 mètres|[JRC Monthly Water History](https://developers.google.cn/earth-engine/datasets/catalog/JRC_GSW1_3_MonthlyHistory)|
+
 # Tutoriels utiles
 
 Il existe un certain nombre de ressources gratuites en ligne sur la détection des inondations avec GEE. Une ressource particulièrement bonne, qui peut guider la construction d'un code personnalisé pour la détection des inondations, peut être trouvée ici :
@@ -102,6 +122,16 @@ Esta información sería fundamental para apoyar las decisiones de los ministeri
 # Datos
 
 Mientras que los datos sobre inundaciones deben extraerse de GEE, la capa de las ubicaciones de las escuelas debe cargarse manualmente en la instancia de GEE. La capa de puntos con las características de las escuelas es información disponible libremente en Myanmar, para las zonas [altas](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-upper-myanmar) y [bajas](https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-lower-myanmar) del país.
+
+# Zonas inundadas
+
+Existen diferentes colecciones de imágenes dentro de GEE para obtener patrones de inundación. A continuación se presenta una lista no exhaustiva.
+
+|Nombre de la fuente de datos|Frecuencia|Periodo de tiempo|Resolución|Código|
+|:----|:----|:----|:----|:----|
+|Sentinel-1 SAR GRD|Diaria|2014-Presente|10 metros|[Sentinel-1 SAR GRD](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)|
+|Base de datos mundial sobre inundaciones v1|Diaria|2000-2018|30 metros|[Global Flood Database](https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1)|
+|Historia mensual del agua del CCI, v1.3|Mensual|1984-2020|30 metros|[JRC Monthly Water History](https://developers.google.cn/earth-engine/datasets/catalog/JRC_GSW1_3_MonthlyHistory)|
 
 # Tutoriales útiles
 
