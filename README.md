@@ -5,7 +5,7 @@ alt="Introductory video" width="720" height="360" border="10" /></a>
 
 🇫🇷 [Version française](#version-française)
 
-🇪🇸 [Versión en Español](https://github.com/iiepdev/HackingEDPlanningV2-Challenge1/blob/main/README.md#versi%C3%B3n-en-espa%C3%B1ol)
+🇪🇸 [Versión en Español](#versi%C3%B3n-en-espa%C3%B1ol)
 
 Note: By accessing this repository and the corresponding files, you agree to a non-disclosure agreement. To get a copy, please write to development@iiep.unesco.org
 
